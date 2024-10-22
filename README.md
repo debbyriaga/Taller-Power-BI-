@@ -10,3 +10,5 @@ El dataset proporciona una visión detallada de los factores que influyen en el 
 - **Asistencia**: niveles de asistencia y su impacto en el rendimiento.
 - **Participación de los padres**: influencia de los padres en la educación de los estudiantes.
 - **Otros factores**: características socioeconómicas y condiciones del entorno.
+
+![image](https://github.com/user-attachments/assets/0ea813ce-1b68-4f8b-82ac-9ce338051c22)
