@@ -12,3 +12,4 @@ El dataset proporciona una visión detallada de los factores que influyen en el 
 - **Otros factores**: características socioeconómicas y condiciones del entorno.
 
 ![image](https://github.com/user-attachments/assets/0ea813ce-1b68-4f8b-82ac-9ce338051c22)
+![image](https://github.com/user-attachments/assets/b84e83eb-f31b-4af8-aa7c-0479edf941c1)
