@@ -13,3 +13,9 @@ El dataset proporciona una visión detallada de los factores que influyen en el 
 
 ![image](https://github.com/user-attachments/assets/0ea813ce-1b68-4f8b-82ac-9ce338051c22)
 ![image](https://github.com/user-attachments/assets/b84e83eb-f31b-4af8-aa7c-0479edf941c1)
+
+## Conclusiones del Análisis
+
+1. **Distancia desde casa y rendimiento**: Los estudiantes que viven cerca de la escuela tienen mejores puntajes en los exámenes en comparación con aquellos que viven lejos.
+2. **Acceso a internet**: Los estudiantes con acceso a internet presentan un rendimiento académico superior, mostrando la importancia de la conectividad en el aprendizaje.
+3. **Calidad de los docentes**: La percepción de una alta calidad docente se correlaciona con puntajes más altos, destacando la importancia de buenos docentes en el rendimiento estudiantil.
